@@ -592,8 +592,8 @@
         <font>
             <name>font_huge_plot</name>
             <filename>RobotoNotoCondensed-Regular.ttf</filename>
-            <linespacing>1.46</linespacing>
-            <size>47</size>
+            <linespacing>1.14</linespacing>
+            <size>30</size>
         </font>
         <font>
             <name>font_midi_plot</name>
