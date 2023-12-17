@@ -80,7 +80,7 @@
                     <include condition="$PARAM[selected]">Color_SelectedText</include>
                     <right>grid_x04</right>
                     <left>grid_x04</left>
-                    <top>4</top>
+                    <top>5</top>
                     <textcolor>main_fg_70</textcolor>
                     <selectedcolor>main_fg_70</selectedcolor>
                     <font>font_main</font>
@@ -91,7 +91,7 @@
                     <param name="control">label</param>
                     <include condition="$PARAM[selected]">Color_SelectedText</include>
                     <right>grid_x04</right>
-                    <left>grid_x110</left>
+                    <left>grid_x11</left>
                     <textcolor>main_fg_70</textcolor>
                     <selectedcolor>main_fg_70</selectedcolor>
                     <font>font_main_bold</font>
