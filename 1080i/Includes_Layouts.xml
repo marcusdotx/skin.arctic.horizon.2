@@ -80,17 +80,18 @@
                     <include condition="$PARAM[selected]">Color_SelectedText</include>
                     <right>grid_x04</right>
                     <left>grid_x04</left>
+                    <top>4</top>
                     <textcolor>main_fg_70</textcolor>
                     <selectedcolor>main_fg_70</selectedcolor>
                     <font>font_main</font>
-                    <align>right</align>
+                    <align>left</align>
                     <label>$INFO[ListItem.ChannelNumberLabel]</label>
                 </include>
                 <include content="Object_Control" condition="!$PARAM[detailed]">
                     <param name="control">label</param>
                     <include condition="$PARAM[selected]">Color_SelectedText</include>
                     <right>grid_x04</right>
-                    <left>grid_x04</left>
+                    <left>grid_x110</left>
                     <textcolor>main_fg_70</textcolor>
                     <selectedcolor>main_fg_70</selectedcolor>
                     <font>font_main_bold</font>
