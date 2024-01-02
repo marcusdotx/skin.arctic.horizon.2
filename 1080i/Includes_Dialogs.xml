@@ -461,7 +461,7 @@
                 <include content="Object_TextOffsetX" condition="!$PARAM[flipside]"><param name="textoffsetx">grid_x11</param></include>
                 <include content="Object_TextOffsetX" condition="$PARAM[flipside]"><param name="textoffsetx">grid_x12</param></include>
                 <textwidth>330</textwidth>
-                <radioposx>380</radioposx>
+                <radioposx>385</radioposx>
                 <nested />
             </include>
             <control type="group" id="$PARAM[groupid]">
