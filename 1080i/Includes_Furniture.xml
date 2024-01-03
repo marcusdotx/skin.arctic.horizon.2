@@ -255,6 +255,7 @@
                     <texture colordiffuse="main_fg_100">$INFO[Weather.FanartCode,resource://resource.images.weathericons.white/,.png]</texture>
                     <visible>Weather.IsFetched</visible>
                     <visible>Skin.String(WeatherClock,Large)</visible>
+                    <top>10</top>
                 </control>
                 <include content="Furniture_MenuLabel">
                     <label>$INFO[Weather.Temperature]</label>
@@ -262,6 +263,7 @@
                     <width>auto</width>
                     <visible>Weather.IsFetched</visible>
                     <visible>Skin.String(WeatherClock,Large)</visible>
+                    <top>4</top>
                 </include>
                 <include content="Furniture_MenuLabel">
                     <label>•</label>
@@ -271,6 +273,7 @@
                     <textcolor>$VAR[ColorHighlight]</textcolor>
                     <visible>Weather.IsFetched</visible>
                     <visible>Skin.String(WeatherClock,Large)</visible>
+                    <top>4</top>
                 </include>
                 <include content="Furniture_MenuLabel">
                     <label>$INFO[System.Time]</label>
@@ -320,6 +323,7 @@
                         <texture colordiffuse="main_fg_100">$INFO[Weather.FanartCode,resource://resource.images.weathericons.white/,.png]</texture>
                         <visible>Weather.IsFetched</visible>
                         <visible>Skin.String(WeatherClock,Small)</visible>
+                        <top>10</top>
                     </control>
                     <include content="Furniture_MiniLabel">
                         <label>$INFO[Weather.Temperature]</label>
@@ -327,6 +331,7 @@
                         <width>auto</width>
                         <visible>Weather.IsFetched</visible>
                         <visible>Skin.String(WeatherClock,Small)</visible>
+                        <top>4</top>
                     </include>
                     <include content="Furniture_MiniLabel">
                         <label>•</label>
@@ -334,12 +339,13 @@
                         <width>auto</width>
                         <visible>Weather.IsFetched</visible>
                         <visible>Skin.String(WeatherClock,Small)</visible>
+                        <top>4</top>
                     </include>
                     <include content="Furniture_MiniLabel">
                         <label>$INFO[System.Date]</label>
                         <align>$PARAM[align]</align>
                         <width>auto</width>
-                        <bottom>-4</bottom>
+                        <top>4</top>
                     </include>
                 </control>
             </control>
