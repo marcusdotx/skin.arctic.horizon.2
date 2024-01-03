@@ -44,7 +44,7 @@
 
     <variable name="Image_SimpleBackground">
         <value condition="!String.IsEmpty(Skin.String(Background.Image))">$INFO[Skin.String(Background.Image)]</value>
-        <value>background/blur2.png</value>
+        <value>background/vignetted.png</value>
     </variable>
 
     <variable name="Image_CropLogo">
