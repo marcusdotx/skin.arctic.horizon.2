@@ -55,6 +55,12 @@
         <action>Mastermode</action>
     </shortcut>
     <shortcut>
+        <icon>special://skin/extras/icons/sysinfo.png</icon>
+        <label>$LOCALIZE[138]</label>
+        <label2>Power Shortcut</label2>
+        <action>ActivateWindow(SystemInfo)</action>
+    </shortcut>
+    <shortcut>
         <icon>special://skin/extras/icons/spinner.png</icon>
         <label>$LOCALIZE[20183]</label>
         <label2>Power Shortcut</label2>
