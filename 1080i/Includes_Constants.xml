@@ -26,6 +26,7 @@
     <constant name="grid_x36">360</constant>
     <constant name="grid_x38">380</constant>
     <constant name="grid_x40">400</constant>
+    <constant name="grid_x42">420</constant>
     <constant name="grid_x44">440</constant>
     <constant name="grid_x48">480</constant>
     <constant name="grid_x52">520</constant>
