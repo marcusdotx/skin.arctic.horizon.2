@@ -29,7 +29,7 @@
             <param name="groupid" value="5101" />
             <param name="sliceid" value="5201" />
             <param name="label" value="$INFO[Control.GetLabel(12)]" />
-            <param name="icon" value="special://skin/extras/icons/play3.png" />
+            <param name="icon" value="special://skin/extras/icons/circle-chevron-right.png" />
             <param name="visible" value="Control.IsEnabled(12)" />
             <onclick>SendClick(12)</onclick>
             <include content="OSD_Button_HintLabel">
