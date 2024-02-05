@@ -18,14 +18,12 @@
                     <right>30</right>
                     <control type="grouplist" id="3001">
                         <orientation>horizontal</orientation>
-                        <height>80</height>
+                        <height>84</height>
                         <align>right</align>
                         <control type="button" id="3002">
                             <label>$INFO[Window.Property(marker_message)]</label>
-                            <height>80</height>
-                            <width min="50">auto</width>
+                            <width min="250">auto</width>
                             <font>font16_title</font>
-                            <textoffsetx>50</textoffsetx>
                         </control>
                     </control>
                 </control>
