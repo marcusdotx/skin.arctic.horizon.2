@@ -70,18 +70,18 @@ msgstr "模糊"
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31010"
 msgid "ClearArt"
-msgstr "透明艺术作品"
+msgstr "透明艺术图"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31011"
 msgid "Small Fanart"
-msgstr "小背景图"
+msgstr "小背同人画"
 
 # 主视觉艺术
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31012"
 msgid "Keyart"
-msgstr "主视觉海报"
+msgstr "主视觉艺术图"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31013"
@@ -91,7 +91,7 @@ msgstr "文本"
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31014"
 msgid "Clearlogo"
-msgstr "透明标志"
+msgstr "透明徽标"
 
 #: /1080i/Items.xml
 msgctxt "#31015"
@@ -226,7 +226,7 @@ msgstr "前景"
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31041"
 msgid "FlixArt"
-msgstr "影视艺术作品"
+msgstr "影视艺术图"
 
 #: /1080i/Labels.xml
 msgctxt "#31042"
@@ -306,7 +306,7 @@ msgstr "影评人"
 #: /1080i/Objects.xml
 msgctxt "#31057"
 msgid "Years Old"
-msgstr "年"
+msgstr "年份"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31058"
@@ -776,7 +776,7 @@ msgstr "大横向展示组合"
 #: /1080i/Views_Row.xml
 msgctxt "#31149"
 msgid "Big Landscape Row"
-msgstr "大横向展示展示"
+msgstr "大横向展示行"
 
 #: /1080i/Views_Wall.xml
 msgctxt "#31150"
@@ -1081,7 +1081,7 @@ msgstr "彩色叠加层"
 #: /1080i/Items.xml
 msgctxt "#31210"
 msgid "Animate fanart"
-msgstr "动漫背景图"
+msgstr "动漫同人画"
 
 #: /1080i/Items.xml
 msgctxt "#31211"
@@ -1161,7 +1161,7 @@ msgstr "导演"
 #: /1080i/SkinSettings.xml
 msgctxt "#31226"
 msgid "Extra fanart"
-msgstr "额外背景图"
+msgstr "额外同人画"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31227"
@@ -1496,12 +1496,12 @@ msgstr "不作处理"
 #: /1080i/VideoOSD.xml
 msgctxt "#31293"
 msgid "Press down for cast and more info"
-msgstr "按“下键”获取演员和更多信息"
+msgstr "按“下键”可获取演员和更多信息"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31294"
 msgid "Press down for bookmarks and chapters"
-msgstr "按“下键”获取书签和章节"
+msgstr "按“下键”可获取书签和章节"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31295"
@@ -1521,7 +1521,7 @@ msgstr "最小化仅图标菜单样式"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31298"
 msgid "Press down for movies and tv shows starring this actor"
-msgstr "按“下键”观看由这位演员主演的电影和电视节目"
+msgstr "按“下键”可观看由该演员主演的电影和电视节目"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31299"
@@ -1553,11 +1553,11 @@ msgctxt "#31304"
 msgid "Override song list layout with basic track naming template"
 msgstr "使用基本曲目命名模板覆盖歌曲列表布局"
 
-# FlixArt（影视风格装饰图） - 专为info dialog（媒体信息框）设计的电影文化元素视觉素材
+# FlixArt（影视艺术图） - 专为info dialog（媒体信息框）设计的电影文化元素视觉素材
 #: /1080i/Includes_Items.xml
 msgctxt "#31305"
 msgid "FlixArt in info dialog"
-msgstr "在信息对话框中显示影视艺术"
+msgstr "在信息对话框中显示影视艺术图"
 
 #: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
 msgctxt "#31306"
@@ -1657,7 +1657,7 @@ msgstr "背景"
 #: /1080i/Includes_Items.xml
 msgctxt "#31325"
 msgid "Expanded widget artwork"
-msgstr "扩展小部件视觉设计"
+msgstr "扩展小部件艺术图"
 
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31326"
@@ -1762,7 +1762,7 @@ msgstr "大海报列表"
 #: /1080i/MusicOSD.xml
 msgctxt "#31346"
 msgid "Press down for more by this artist"
-msgstr "按“下键”以查看更多该艺术家的作品"
+msgstr "按“下键”可查看更多该艺术家的作品"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31347"
@@ -1772,12 +1772,12 @@ msgstr "发光"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31348"
 msgid "Press down for channel EPG"
-msgstr "按“下键”以查看频道电子节目指南"
+msgstr "按“下键”可查看频道电子节目指南"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31349"
 msgid "Swap info button for options on fullscreen fanart widgets"
-msgstr "在全屏背景图小部件上交换信息按钮和选项"
+msgstr "在全屏同人画小部件上交换信息按钮和选项"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31350"
@@ -1948,7 +1948,7 @@ msgstr "菜单向上按键操作"
 #: /1080i/SkinSettings.xml
 msgctxt "#31383"
 msgid "Prefer landscape art"
-msgstr "优先使用横版艺术作品"
+msgstr "优先使用横版艺术图"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31384"
