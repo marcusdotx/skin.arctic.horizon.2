@@ -43,6 +43,12 @@
 						    <icon>DefaultFolderBack.png</icon>
 						    <onclick>ActivateWindow(interfacesettings)</onclick>
 						</item>
+						<item>
+						    <label>$LOCALIZE[24041]</label>
+						    <icon>DefaultAddonsZip.png</icon>
+						    <onclick>RunPlugin(special://home/addons/)</onclick>
+						    <onclick>InstallFromZip</onclick>
+						</item>
                         <item>
                             <label>$LOCALIZE[24998]</label>
                             <property name="folderpath">addons://user/</property>
